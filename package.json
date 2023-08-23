@@ -7,5 +7,9 @@
     "test": "node server.js"
   },
   "author": "Petar Georgiev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "sqlite3": "^5.1.6"
+  }
 }
