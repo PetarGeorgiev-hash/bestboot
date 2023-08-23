@@ -1,0 +1,11 @@
+{
+  "name": "bestboots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Petar Georgiev",
+  "license": "ISC"
+}
